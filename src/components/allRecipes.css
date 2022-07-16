@@ -1,0 +1,14 @@
+h2 {
+  margin-bottom: 30px;
+}
+
+.recipeCard {
+  width: 400px;
+  background-color: bisque;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+img {
+  width: 100%;
+}
